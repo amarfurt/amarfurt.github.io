@@ -1,6 +1,6 @@
 ---
 title: "Welcome to my homepage!"
-date: 2023-07-07T14:00:00+00:00
+date: 2023-07-07T00:00:00+00:00
 categories:
   - blog
 tags:

@@ -1,8 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "About me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Hi! I'm a lecturer at <a href='https://www.hslu.ch/en'>HSLU</a> since September 2022, in the areas of natural language processing and MLOps. I hold a PhD from <a href='https://www.epfl.ch/en/'>EPFL</a> for my thesis on <a href='https://infoscience.epfl.ch/record/302951?ln=en'>Interpretable Representation Learning and Evaluation for Abstractive Summarization</a>. Previously, I received a BSc and MSc in computer science from <a href='https://ethz.ch/en.html'>ETH Zurich</a> and worked as the first employee in startups to create a health data platform and analyze user data.

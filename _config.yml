@@ -64,7 +64,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://www.hslu.ch/en/lucerne-university-of-applied-sciences-and-arts/about-us/people-finder/profile/?pid=5550"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/andreas-marfurt-ab1784a1/"
     - label: "Google scholar"
       icon: "fas fa-fw fa-link"

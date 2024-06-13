@@ -1,5 +1,5 @@
 ---
-title: "Fantastic hallucinations and how to find them"
+title: "Presentation: Hallucinations in LLMs at Idiap"
 date: 2024-02-21T00:00:00+00:00
 categories:
   - blog

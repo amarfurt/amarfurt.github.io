@@ -9,4 +9,4 @@ tags:
 
 I gave a talk about generative AI at the Schulthess Forum Data Privacy 2024 in Zurich. Here's an impression from the presentation:
 
-![Andreas presenting at the Schulthess Forum Data Privacy](assets/images/schulthess.jpg)
+![Andreas presenting at the Schulthess Forum Data Privacy](../../assets/images/schulthess.jpg)

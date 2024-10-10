@@ -16,7 +16,7 @@
 title: Andreas Marfurt
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal homepage of Andreas Marfurt. Andreas is a lecturer in NLP and MLOps at Lucerne University of Applied Sciences and Arts, and a postdoc at Idiap Research Institute.
+  Personal homepage of Andreas Marfurt. Andreas is a researcher and lecturer in NLP and MLOps at the Lucerne University of Applied Sciences and Arts.
 twitter_username: amarfurt
 github_username: amarfurt
 minimal_mistakes_skin: default
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Andreas Marfurt"
   avatar : "/assets/images/portrait.jpg"
-  bio    : "Lecturer in NLP and MLOps at HSLU."
+  bio    : "Researcher and lecturer in NLP and MLOps at HSLU."
   links:
     - label: "HSLU homepage"
       icon: "fas fa-fw fa-building-columns"

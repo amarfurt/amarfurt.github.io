@@ -7,5 +7,5 @@ tags:
   - conferences
 ---
 
-Our paper "Generating Interpretations of Policy Announcements" was accepted to the NLP4DH workshop at EMNLP 2024. This is joint work with Ashley Thornton, David Sylvan and James Henderson. I will present the paper at the workshop on November 16.
+Our paper [Generating Interpretations of Policy Announcements](https://aclanthology.org/2024.nlp4dh-1.50/) was accepted to the NLP4DH workshop at EMNLP 2024. This is joint work with Ashley Thornton, David Sylvan and James Henderson. I will present the paper at the workshop on November 16.
 

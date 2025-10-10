@@ -1,6 +1,6 @@
 ---
 title: "Presentation: Generative AI at TELFA MP Meeting in Geneva"
-date: 2024-10-09T00:00:00+00:00
+date: 2025-10-09T00:00:00+00:00
 categories:
   - blog
 tags:
